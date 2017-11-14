@@ -184,6 +184,7 @@ PRODUCT_PACKAGES += \
 
 # Wifi
 PRODUCT_PACKAGES += \
+    libqsap_sdk \
     dhcpcd.conf \
     hostapd \
     libQWiFiSoftApCfg \
